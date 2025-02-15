@@ -1,4 +1,3 @@
-# syllabus
 COGS 502 -- Symbols and Programming (METU CogSci)
 -------------------------------------------------------------
 
@@ -32,9 +31,10 @@ This course requires the use of some standard tools for programming. You should:
 * install Github Desktop from [here](https://desktop.github.com/);
 * create a Github account;
 * install Visual Studio Code from [here](https://code.visualstudio.com/);
+* Set VSCode as editor for Github Desktop;
 * bring your computer to the first session so that we can fix any issues you
     might have with these.
-* disregard this step if you already have a working setup.
+* disregard the above, if you already have a working setup (other than jupyter notebooks).
 
 ##### Reference Material 
 
