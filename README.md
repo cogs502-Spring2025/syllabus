@@ -14,7 +14,7 @@ Weekly schedule
 
 | Assignment | Due
 :---|:-------|
-|1  | 26/02/2025:3am |
+|1  | Feb 27, 12:00|
 
 
 </details>
