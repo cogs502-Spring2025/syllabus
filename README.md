@@ -14,7 +14,7 @@ Weekly schedule
 
 | Assignment | Due
 :---|:-------|
-|1  | Feb 27, 12:00|
+|[Sets](https://classroom.github.com/a/F5OzM034)  | Feb 27, 12:00|
 
 
 </details>
@@ -38,13 +38,21 @@ This course requires the use of some standard tools for programming. You should:
 
 ##### Reference Material 
 
+Programming:
+
 * Downey (2015). _Think Python: How to Think Like a Computer Scientist_. Green
     Tea Press.
+* Herman (2014). _A functional start to computing with Python_. Franklin, Beedle
+    & Associates Inc.
 * Beazley & Jones (2013). _Python Cookbook_. O'Reilly Media. (Let us know if you
     cannot find a copy)
+* [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html)
 * Stavely (2014). _Programming and Mathematical Thinking: A Gentle Introduction
     to Discrete Math Featuring Python_. The New Mexico Tech Press.
 * [Python 3 Documentation](https://docs.python.org/3/)
+
+Discrete Mathematics:
+
 * Levin (2019). _Discrete Mathematics: An Open Introduction_. University
     of Northern Colorado. [Link](https://discrete.openmathbooks.org/dmoi3/dmoi.html)
 * Rosen (2019). _Discrete Mathematics and Its Applications_. McGraw-Hill.
