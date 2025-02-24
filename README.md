@@ -15,6 +15,7 @@ Weekly schedule
 | Assignment | Due
 :---|:-------|
 |[Sets](https://classroom.github.com/a/F5OzM034)  | Feb 27, 12:00|
+|[Functions](https://classroom.github.com/a/5vUVn2wZ)  | Mar 6, 10:00|
 
 
 </details>
