@@ -4,7 +4,7 @@ COGS 502 -- Symbols and Programming (METU CogSci)
 [Umut Özge](mailto:umozge@metu.edu.tr), [Ecenur Çağırıcı](mailto:ecenurc@metu.edu.tr)(TA)
 
 ```
-Thursdays 🕐 14:40 @Informatics Institute S02
+Thursdays 🕐 14:40 @Informatics Institute S03
 ```
 
 <details open>
@@ -71,7 +71,7 @@ Discrete Mathematics:
 * The weight of the quizzes will be decided on the basis of their difficulty.
 * The quizzes will be pencil-and-paper, and any sort of material will be
     disallowed.
-* Thw quizzes will start at 17:00, and you will have 30 minutes to complete
+* The quizzes will start at 17:00, and you will have 30 minutes to complete
     them.
 * Attendance is not required, you can come only to the quizzes, provided that
     you submit the assignment of that week on time.
