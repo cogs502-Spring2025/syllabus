@@ -17,6 +17,7 @@ Weekly schedule
 |[Sets](https://classroom.github.com/a/F5OzM034)  | Feb 27, 12:00|
 |[Functions](https://classroom.github.com/a/5vUVn2wZ)  | Mar 6, 10:00|
 |[Counting-1](https://classroom.github.com/a/P-aO2vxQ)  | Mar 13, 09:00|
+|[Counting-2](https://classroom.github.com/a/Zr5wVjgX)  | Mar 20, 10:00|
 
 
 </details>
