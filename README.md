@@ -19,6 +19,7 @@ Weekly schedule
 |[Counting-1](https://classroom.github.com/a/P-aO2vxQ)  | Mar 13, 09:00|
 |[Counting-2](https://classroom.github.com/a/Zr5wVjgX)  | Mar 20, 10:00|
 |[Counting-3](https://classroom.github.com/a/ac439Zlg)  | Apr 17, 10:00|
+|Levin's [3.6](https://discrete.openmathbooks.org/dmoi4/sec_comb-proofs.html) & [3.8](https://discrete.openmathbooks.org/dmoi4/sec_advPIE.html)| Apr 24, 14:40|
 
 
 </details>
