@@ -21,6 +21,7 @@ Weekly schedule
 |[Counting-3](https://classroom.github.com/a/ac439Zlg)  | Apr 17, 10:00|
 |Levin's [3.6](https://discrete.openmathbooks.org/dmoi4/sec_comb-proofs.html) & [3.8](https://discrete.openmathbooks.org/dmoi4/sec_advPIE.html)| Apr 24, 14:40|
 |[Object Oriented Programming-1](https://classroom.github.com/a/Ndbzc_fG)| May 15, 12:45|
+|Levin's [3.7](https://discrete.openmathbooks.org/dmoi4/sec-counting-probability.html)| May 22, 14:40|
 
 
 </details>
